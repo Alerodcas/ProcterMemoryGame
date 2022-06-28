@@ -1,0 +1,5 @@
+C:/Users/alero/CLionProjects/ProcterMemoryGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/alero/CLionProjects/ProcterMemoryGame/cmake-build-debug/CMakeFiles/ProcterMemoryGame.dir
+C:/Users/alero/CLionProjects/ProcterMemoryGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alero/CLionProjects/ProcterMemoryGame/cmake-build-debug/CMakeFiles/ProcterMemoryGame_autogen_timestamp_deps.dir
+C:/Users/alero/CLionProjects/ProcterMemoryGame/cmake-build-debug/CMakeFiles/ProcterMemoryGame_autogen.dir

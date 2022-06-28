@@ -1,0 +1,10 @@
+# ninja log v5
+13	828	6781452350054460	ProcterMemoryGame_autogen/timestamp	8e8bd2b782fb551d
+13	828	6781452350054460	ProcterMemoryGame_autogen/mocs_compilation.cpp	8e8bd2b782fb551d
+13	828	6781452350054460	C:/Users/alero/CLionProjects/ProcterMemoryGame/cmake-build-debug/ProcterMemoryGame_autogen/timestamp	8e8bd2b782fb551d
+866	3815	6781452379911521	CMakeFiles/ProcterMemoryGame.dir/mainwindow.cpp.obj	4a24f7f94c392726
+3816	4542	6781452383333777	ProcterMemoryGame.exe	43cae1231fbbf396
+13	828	6781452350054460	C:/Users/alero/CLionProjects/ProcterMemoryGame/cmake-build-debug/ProcterMemoryGame_autogen/mocs_compilation.cpp	8e8bd2b782fb551d
+905	5931	6781414391293340	CMakeFiles/ProcterMemoryGame.dir/main.cpp.obj	17de03d840ef4b31
+4404	8470	6781419779169986	CMakeFiles/ProcterMemoryGame.dir/ProcterMemoryGame_autogen/mocs_compilation.cpp.obj	1ef24a32c73c8fc7
+17	1852	6781458611874615	build.ninja	b367fefd86992201
