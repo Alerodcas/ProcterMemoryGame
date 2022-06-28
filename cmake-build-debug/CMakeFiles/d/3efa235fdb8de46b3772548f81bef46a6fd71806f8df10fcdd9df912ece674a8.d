@@ -446,6 +446,10 @@ ProcterMemoryGame_autogen/timestamp: \
   C:/Qt/6.3.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateTargets.cmake \
   C:/Qt/6.3.1/mingw_64/lib/cmake/Qt6ZlibPrivate/Qt6ZlibPrivateVersionlessTargets.cmake \
   ../CMakeLists.txt \
+  ../Card.cpp \
+  ../Card.h \
+  ../Game.cpp \
+  ../Game.h \
   CMakeFiles/3.21.1/CMakeCCompiler.cmake \
   CMakeFiles/3.21.1/CMakeCXXCompiler.cmake \
   CMakeFiles/3.21.1/CMakeRCCompiler.cmake \

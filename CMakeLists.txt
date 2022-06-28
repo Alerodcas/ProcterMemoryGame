@@ -19,7 +19,7 @@ file(GLOB SOURCES
         *.cpp
         )
 
-add_executable(ProcterMemoryGame ${SOURCE_FILES} ${SOURCES} Card.cpp Card.h)
+add_executable(ProcterMemoryGame ${SOURCE_FILES} ${SOURCES} Card.cpp Card.h Game.cpp Game.h)
 target_link_libraries(ProcterMemoryGame
         Qt::Core
         Qt::Gui

@@ -10,16 +10,15 @@
 using namespace std;
 
 class Card {
-public:
-    void setType(const string &type);
-    void setPoints();
-
-    const string &getType() const;
-    int getPoints() const;
-
 private:
     string type;
     int points;
+
+public:
+    void setType(const string &type);
+    void setPoints();
+    const string &getType() const;
+    int getPoints() const;
 };
 
 
