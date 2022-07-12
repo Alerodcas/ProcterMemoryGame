@@ -11,7 +11,7 @@ public:
     Game();
     static void createBoard();
     static Card getCard(int cardNumber);
-    static int compareCards(Card card1, Card card2);
+    static bool compareCards(Card card1, Card card2);
     virtual ~Game();
 
 };

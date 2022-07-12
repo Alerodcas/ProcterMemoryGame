@@ -12,13 +12,11 @@ using namespace std;
 class Card {
 private:
     string type;
-    int points;
 
 public:
     void setType(const string &type);
-    void setPoints();
     const string &getType() const;
-    int getPoints() const;
+    bool compareCards();
 };
 
 

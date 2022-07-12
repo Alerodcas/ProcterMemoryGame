@@ -6,6 +6,34 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+    ui->pushButton->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_2->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_3->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_4->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_5->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_6->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_7->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_8->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_9->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_10->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_11->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_12->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_13->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_14->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_15->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_16->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_17->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_18->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_19->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_20->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_21->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_22->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_23->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_24->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_25->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_26->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_27->setIcon(QIcon("://Images/Icon.png"));
+    ui->pushButton_28->setIcon(QIcon("://Images/Icon.png"));
 }
 
 MainWindow::~MainWindow()

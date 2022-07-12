@@ -354,7 +354,10 @@ ProcterMemoryGame_autogen/timestamp: \
   C:/Qt/6.3.1/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.3.1/mingw_64/include/QtGui/qwindowdefs_win.h \
   C:/Qt/6.3.1/mingw_64/include/QtWidgets/QMainWindow \
+  C:/Qt/6.3.1/mingw_64/include/QtWidgets/QPushButton \
+  C:/Qt/6.3.1/mingw_64/include/QtWidgets/qabstractbutton.h \
   C:/Qt/6.3.1/mingw_64/include/QtWidgets/qmainwindow.h \
+  C:/Qt/6.3.1/mingw_64/include/QtWidgets/qpushbutton.h \
   C:/Qt/6.3.1/mingw_64/include/QtWidgets/qsizepolicy.h \
   C:/Qt/6.3.1/mingw_64/include/QtWidgets/qtabwidget.h \
   C:/Qt/6.3.1/mingw_64/include/QtWidgets/qtwidgets-config.h \
@@ -450,6 +453,7 @@ ProcterMemoryGame_autogen/timestamp: \
   ../Card.h \
   ../Game.cpp \
   ../Game.h \
+  ../Resource.qrc \
   CMakeFiles/3.21.1/CMakeCCompiler.cmake \
   CMakeFiles/3.21.1/CMakeCXXCompiler.cmake \
   CMakeFiles/3.21.1/CMakeRCCompiler.cmake \
