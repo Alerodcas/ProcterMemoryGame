@@ -118,7 +118,7 @@ void Game::createBoard(){
                 }
                 else if (randomType == 14 and maxType14 > 0) {
                     cardMatrix[i][j].setType("Fourteen");
-                    maxType13 -= 1;
+                    maxType14 -= 1;
                     total -= 1;
                     break;
                 }
@@ -128,6 +128,12 @@ void Game::createBoard(){
             }
         }
     }
+    for(int i = 0; i < 4; i++){
+        cout << "" << endl;
+        for(int j = 0; j < 7; j++) {
+            cout << cardMatrix[i][j].getType() << " ";
+        }
+        }
 }
 
 Card Game::getCard(int cardNumber) {

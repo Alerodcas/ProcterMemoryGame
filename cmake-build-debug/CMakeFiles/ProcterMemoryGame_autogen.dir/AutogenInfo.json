@@ -248,6 +248,12 @@
 			null
 		],
 		[
+			"C:/Users/alero/CLionProjects/ProcterMemoryGame/Team.h",
+			"MU",
+			"EWIEGA46WW/moc_Team.cpp",
+			null
+		],
+		[
 			"C:/Users/alero/CLionProjects/ProcterMemoryGame/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
@@ -325,6 +331,7 @@
 	[
 		[ "C:/Users/alero/CLionProjects/ProcterMemoryGame/Card.cpp", "MU", null ],
 		[ "C:/Users/alero/CLionProjects/ProcterMemoryGame/Game.cpp", "MU", null ],
+		[ "C:/Users/alero/CLionProjects/ProcterMemoryGame/Team.cpp", "MU", null ],
 		[ "C:/Users/alero/CLionProjects/ProcterMemoryGame/main.cpp", "MU", null ],
 		[
 			"C:/Users/alero/CLionProjects/ProcterMemoryGame/mainwindow.cpp",

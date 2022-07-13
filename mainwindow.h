@@ -3,6 +3,9 @@
 
 #include <QMainWindow>
 #include <QPushButton>
+#include "Game.h"
+#include "Team.h"
+#include "Card.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
@@ -16,16 +19,27 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
     bool OnlyTwoCards= true;
-    int TeamOnePoints = 0;
-    int TeamTwoPoints = 0;
-    int TeamThreePoints = 0;
-    int TeamFourPoints = 0;
-    int *playingTeam;
     QPushButton *ghost;
     QPushButton *firstPressed = this->ghost;
     QPushButton *secondPressed = this->ghost;
+    QPushButton *justPressed = this->ghost;
+    Card firstCard;
+    Card secondCard;
+    Game game;
+    Team teamOne;
+    Team teamTwo;
+    Team teamThree;
+    Team teamFour;
+    Team *playingTeam = &teamOne;
 
 private slots:
+
+    void showCard(int cardNum);
+
+    void evaluateCards();
+
+    void changeTeam();
+
     void on_pushButton_clicked();
 
     void on_pushButton_2_clicked();
@@ -81,6 +95,8 @@ private slots:
     void on_pushButton_27_clicked();
 
     void on_pushButton_28_clicked();
+
+    void on_pushButton_29_clicked();
 
 private:
     Ui::MainWindow *ui;

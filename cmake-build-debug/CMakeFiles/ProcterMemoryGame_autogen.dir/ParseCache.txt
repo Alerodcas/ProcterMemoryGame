@@ -41,6 +41,7 @@ C:/Users/alero/CLionProjects/ProcterMemoryGame/mainwindow.h
  mdp:C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/hash_bytes.h
  mdp:C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/invoke.h
  mdp:C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/ios_base.h
+ mdp:C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/istream.tcc
  mdp:C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/iterator_concepts.h
  mdp:C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/list.tcc
  mdp:C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/locale_classes.h
@@ -130,6 +131,8 @@ C:/Users/alero/CLionProjects/ProcterMemoryGame/mainwindow.h
  mdp:C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/initializer_list
  mdp:C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ios
  mdp:C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/iosfwd
+ mdp:C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/iostream
+ mdp:C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/istream
  mdp:C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/iterator
  mdp:C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/limits
  mdp:C:/Program Files/JetBrains/CLion 2021.3.3/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/list
@@ -333,9 +336,14 @@ C:/Users/alero/CLionProjects/ProcterMemoryGame/mainwindow.h
  mdp:C:/Qt/6.3.1/mingw_64/include/QtWidgets/qtwidgetsexports.h
  mdp:C:/Qt/6.3.1/mingw_64/include/QtWidgets/qtwidgetsglobal.h
  mdp:C:/Qt/6.3.1/mingw_64/include/QtWidgets/qwidget.h
+ mdp:C:/Users/alero/CLionProjects/ProcterMemoryGame/Card.h
+ mdp:C:/Users/alero/CLionProjects/ProcterMemoryGame/Game.h
+ mdp:C:/Users/alero/CLionProjects/ProcterMemoryGame/Team.h
+C:/Users/alero/CLionProjects/ProcterMemoryGame/Team.h
 C:/Users/alero/CLionProjects/ProcterMemoryGame/mainwindow.cpp
  uic:./ui_mainwindow.h
 C:/Users/alero/CLionProjects/ProcterMemoryGame/Game.h
 C:/Users/alero/CLionProjects/ProcterMemoryGame/Card.h
 C:/Users/alero/CLionProjects/ProcterMemoryGame/Game.cpp
 C:/Users/alero/CLionProjects/ProcterMemoryGame/Card.cpp
+C:/Users/alero/CLionProjects/ProcterMemoryGame/Team.cpp

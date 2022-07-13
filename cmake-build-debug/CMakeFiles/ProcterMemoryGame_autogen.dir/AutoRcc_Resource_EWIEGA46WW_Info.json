@@ -1,0 +1,34 @@
+{
+	"BUILD_DIR" : "C:/Users/alero/CLionProjects/ProcterMemoryGame/cmake-build-debug/ProcterMemoryGame_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/alero/CLionProjects/ProcterMemoryGame/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/alero/CLionProjects/ProcterMemoryGame/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/alero/CLionProjects/ProcterMemoryGame",
+	"CMAKE_SOURCE_DIR" : "C:/Users/alero/CLionProjects/ProcterMemoryGame",
+	"INCLUDE_DIR" : "C:/Users/alero/CLionProjects/ProcterMemoryGame/cmake-build-debug/ProcterMemoryGame_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/alero/CLionProjects/ProcterMemoryGame/Images/Icon.png",
+		"C:/Users/alero/CLionProjects/ProcterMemoryGame/Images/image 11.png",
+		"C:/Users/alero/CLionProjects/ProcterMemoryGame/Images/image 14.png",
+		"C:/Users/alero/CLionProjects/ProcterMemoryGame/Images/image 12.png",
+		"C:/Users/alero/CLionProjects/ProcterMemoryGame/Images/image 8.png",
+		"C:/Users/alero/CLionProjects/ProcterMemoryGame/Images/image 13.png",
+		"C:/Users/alero/CLionProjects/ProcterMemoryGame/Images/image 5.png",
+		"C:/Users/alero/CLionProjects/ProcterMemoryGame/Images/image 1.png",
+		"C:/Users/alero/CLionProjects/ProcterMemoryGame/Images/image 10.png",
+		"C:/Users/alero/CLionProjects/ProcterMemoryGame/Images/image 6.png",
+		"C:/Users/alero/CLionProjects/ProcterMemoryGame/Images/image 7.png",
+		"C:/Users/alero/CLionProjects/ProcterMemoryGame/Images/image 2.png",
+		"C:/Users/alero/CLionProjects/ProcterMemoryGame/Images/image 9.png"
+	],
+	"LOCK_FILE" : "C:/Users/alero/CLionProjects/ProcterMemoryGame/cmake-build-debug/CMakeFiles/ProcterMemoryGame_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "Resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resource.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.3.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/alero/CLionProjects/ProcterMemoryGame/cmake-build-debug/CMakeFiles/ProcterMemoryGame_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/alero/CLionProjects/ProcterMemoryGame/Resource.qrc",
+	"VERBOSITY" : 0
+}
